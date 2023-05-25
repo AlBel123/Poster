@@ -1,2 +1,2 @@
 # Poster
-Test Motivation Poster
+Motivation Poster
